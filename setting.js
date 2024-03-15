@@ -3,8 +3,8 @@ export const userInfo = [
 
     {
         background: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cfd178b-66c3-4756-8e9b-63df1ff3e510/dfe2mmj-2780d3da-7a83-4d39-9d29-3ab8cb3d3f6f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZmQxNzhiLTY2YzMtNDc1Ni04ZTliLTYzZGYxZmYzZTUxMFwvZGZlMm1tai0yNzgwZDNkYS03YTgzLTRkMzktOWQyOS0zYWI4Y2IzZDNmNmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JFvZ1fk9SwWcQSAQwNY_3cE-RiD96bDljFE3N0AaRwA",
-        avatar: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/IMG_3116.JPG',
-        name: 'Nguyễn Trí Vinh',
+        avatar: 'https://i.imgur.com/SY4qKrG.jpeg',
+        name: 'Nguyễn Trí Vĩnh',
         info: 'I am a guy passionate about software creativity.',
 
     }
@@ -51,10 +51,10 @@ export const secctionCopy = [
 
     },
     {
-        image: "https://i.pinimg.com/736x/1d/07/c2/1d07c2bacaefc123ddc782e6288ddc41.jpg",
-        title: 'Zalo',
-        name: 'Lê Vĩnh Khang',
-        link: 'https://zalo.me/levinhkhangdeptrai',
+        image: "https://i.imgur.com/pCydQcP.jpeg",
+        title: 'Roblox',
+        name: 'SCC.',
+        link: 'https://www.roblox.com/groups/7668519/SCC#!/about',
 
     },
 
@@ -65,37 +65,37 @@ export const modalssss = [
 
 
     {
-        image: "https://th.bing.com/th/id/R.a60b690a4f78161e558c959e157d7b0d?rik=0cISg63VqH72cg&pid=ImgRaw&r=0",
-        title: 'MB Bank',
+        image: "https://i.imgur.com/H0UeUZG.png",
+        title: 'ACB',
         name: 'Get QR Code',
-        modal: 'https://img.vietqr.io/image/MB-0905243477-print.png',
+        modal: 'https://img.vietqr.io/image/ACB-33689707-qr_only.png?amount=0&addInfo=&accountName=Nguy%E1%BB%85n+Tr%C3%AD+V%C4%A9nh',
 
 
     },
     {
-        image: "https://laserbinhthuan.com/wp-content/uploads/2021/10/meta-logo-facebook.jpg",
-        title: 'Certificate',
-        name: 'Meta',
-        modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475138499_f66102b26d26a8b2e05af624fffab1e0.jpg',
+        image: "https://i.imgur.com/Z9gucAa.png",
+        title: 'TSR',
+        name: 'Nguyễn Trí Vĩnh',
+        modal: 'https://img.vietqr.io/image/ACB-33689707-qr_only.png?amount=0&addInfo=&accountName=Nguy%E1%BB%85n+Tr%C3%AD+V%C4%A9nh',
 
 
     },
-    {
-        image: "https://th.bing.com/th/id/OIP.kY7h_2SMSJv6fdNrPrAROQAAAA?w=400&h=400&rs=1&pid=ImgDetMain",
-        title: 'Certificate',
-        name: 'Google Cloud',
-        modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475157110_f11989f1964f1fb581f7d2efd0bb5788.jpg',
+    // {
+    //     image: "https://th.bing.com/th/id/OIP.kY7h_2SMSJv6fdNrPrAROQAAAA?w=400&h=400&rs=1&pid=ImgDetMain",
+    //     title: 'Certificate',
+    //     name: 'Google Cloud',
+    //     modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475157110_f11989f1964f1fb581f7d2efd0bb5788.jpg',
 
 
-    },
-    {
-        image: "https://th.bing.com/th/id/OIP.ysdCJiI4OEy9VF-5ituvWwAAAA?w=300&h=300&rs=1&pid=ImgDetMain",
-        title: 'Certificate',
-        name: 'Amazon Web Service',
-        modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475154720_a0157710d39eed70389cf7b43ff6793a.jpg',
+    // },
+    // {
+    //     image: "https://th.bing.com/th/id/OIP.ysdCJiI4OEy9VF-5ituvWwAAAA?w=300&h=300&rs=1&pid=ImgDetMain",
+    //     title: 'Certificate',
+    //     name: 'Amazon Web Service',
+    //     modal: 'https://raw.githubusercontent.com/levinhkhangzz/assets/main/z5164475154720_a0157710d39eed70389cf7b43ff6793a.jpg',
 
 
-    },
+    // },
 
 
 
