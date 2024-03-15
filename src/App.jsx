@@ -432,7 +432,7 @@ function App() {
       </span>
     </div>
     <span className="select-none text-sm leading-none text-slate-400">
-      © {/* */}2024{/* */} Le Vinh Khang. All rights reserved.
+      © {/* */}2024{/* */} Nguyễn Trí Vinh. All rights reserved.
     </span>
   </div>
 </footer>
