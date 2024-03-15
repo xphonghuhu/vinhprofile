@@ -202,7 +202,7 @@ function App() {
               </i>
               <div className="text-balance">
                 <a
-                  href="mailto:nguyenngoctrivinh72@gmail.com?subject=Hi,+Nguyễn Trí Vinh"
+                  href="mailto:nguyenngoctrivinh72@gmail.com?subject=Hi,+Nguyễn Trí Vĩnh"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:underline"
@@ -432,7 +432,7 @@ function App() {
       </span>
     </div>
     <span className="select-none text-sm leading-none text-slate-400">
-      © {/* */}2024{/* */} Nguyễn Trí Vinh. All rights reserved.
+      © {/* */}2024{/* */} Nguyễn Trí Vĩnh. All rights reserved.
     </span>
   </div>
 </footer>
