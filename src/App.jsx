@@ -54,7 +54,7 @@ function App() {
         <header className="-mx-2 mt-2 md:mx-0">
           <div className="aspect-h-1 aspect-w-2 relative flex w-full overflow-hidden rounded-xl bg-primary-900 shadow-lg">
             <img
-              alt="Nguyen Tri Vinh's cover image"
+              alt="Le Vinh Khang's cover image"
               fetchpriority="high"
               decoding="async"
               data-nimg="fill"
@@ -74,7 +74,7 @@ function App() {
           </div>
           <div className="relative z-20 mx-auto -mt-10 h-40 w-40 select-none overflow-hidden rounded-full border-4 border-slate-900 bg-primary-900 md:-mt-20">
             <img
-              alt="Nguyen Tri Vinh's avatar"
+              alt="Le Vinh Khang's avatar"
               fetchpriority="high"
               width={152}
               height={152}
@@ -146,7 +146,6 @@ function App() {
                   className="font-semibold hover:underline"
                   aria-label="Quaric"
                 >
-                  Giong Ong To Senior High School
                 </a>
               </div>
             </div>
@@ -177,7 +176,7 @@ function App() {
                   rel="noopener noreferrer"
                   className="hover:underline"
                 >
-                  Thu Duc District, Ho Chi Minh City, Viet Nam
+                  Ho Chi Minh City, Viet Nam
                 </a>
               </div>
             </div>
@@ -203,12 +202,12 @@ function App() {
               </i>
               <div className="text-balance">
                 <a
-                  href="mailto:contact@levinhkhang.org?subject=Hi,+Lê Vĩnh Khang"
+                  href="mailto:nguyenngoctrivinh72@gmail.com?subject=Hi,+Nguyễn Trí Vinh"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:underline"
                 >
-                  contact@levinhkhang.org
+                  nguyenngoctrivinh72@gmail.com
                 </a>
               </div>
             </div>
@@ -433,7 +432,7 @@ function App() {
       </span>
     </div>
     <span className="select-none text-sm leading-none text-slate-400">
-      © {/* */}2024{/* */} Nguyen Tri Vinh. All rights reserved.
+      © {/* */}2024{/* */} Le Vinh Khang. All rights reserved.
     </span>
   </div>
 </footer>
