@@ -54,7 +54,7 @@ export const secctionCopy = [
         image: "https://i.imgur.com/pCydQcP.jpeg",
         title: 'Roblox',
         name: 'SCC.',
-        link: '<a href="https://www.roblox.com/groups/7668519/SCC#!/about" target="_blank"></a>',
+        link: 'https://www.roblox.com/groups/7668519/SCC#!/about',
 
     },
 
