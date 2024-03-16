@@ -54,7 +54,7 @@ export const secctionCopy = [
         image: "https://i.imgur.com/pCydQcP.jpeg",
         title: 'Roblox',
         name: 'SCC.',
-        link: 'https://www.roblox.com/groups/7668519/SCC#!/about',
+        link: '<a href="https://www.roblox.com/groups/7668519/SCC#!/about" target="_blank"></a>',
 
     },
 
@@ -67,7 +67,7 @@ export const modalssss = [
     {
         image: "https://i.imgur.com/H0UeUZG.png",
         title: 'ACB',
-        name: 'Get QR Code',
+        name: '33689707',
         modal: 'https://img.vietqr.io/image/ACB-33689707-qr_only.png?amount=0&addInfo=&accountName=Nguy%E1%BB%85n+Tr%C3%AD+V%C4%A9nh',
 
 
@@ -75,7 +75,7 @@ export const modalssss = [
     {
         image: "https://i.imgur.com/Z9gucAa.png",
         title: 'TSR',
-        name: 'Nguyễn Trí Vĩnh',
+        name: 'nguyenngoctrivinh72@gmail.com',
         modal: 'https://img.vietqr.io/image/ACB-33689707-qr_only.png?amount=0&addInfo=&accountName=Nguy%E1%BB%85n+Tr%C3%AD+V%C4%A9nh',
 
 
